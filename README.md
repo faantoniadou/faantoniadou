@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faidra-antoniadou/](https://www.linkedin.com/in/faidra-antoniadou/)
 
-- ⚡ Fun fact **I love scuba diving**
+- ⚡ Fun fact: **I love scuba diving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
