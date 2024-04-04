@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faidra</h1>
-<h3 align="center">A Computer Science (MSc) student at UCL </h3>
+<h3 align="center">A Computer Science (MSc) graduate from UCL </h3>
 <h4 align="center">Computational Physics (BSc Hons) graduate from the University of Edinburgh</h4>
+<h3 align="center">Currently working as a Graduate Engineer </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/fedra-antoniadou?tab=repositories](https://github.com/fedra-antoniadou?tab=repositories)
 
