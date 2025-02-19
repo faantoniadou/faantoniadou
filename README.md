@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faantoniadou" alt="faantoniadou" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning about **DevOps**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python, C# & .NET Apps and Automation Ideas**
 
 - 📫 How to reach me **faantoniadou@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faidra-antoniadou/](https://www.linkedin.com/in/faidra-antoniadou/)
 
-- ⚡ Fun fact **I enjoy art, baking, snorkelling and scuba diving**
+- ⚡ Fun fact **I enjoy art, baking, snorkelling and latin dancing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
